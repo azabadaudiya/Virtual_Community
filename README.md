@@ -25,3 +25,28 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## 🛠️ How to Contribute
+
+1. Fork this repository  
+2. Clone your fork:  
+   ```bash
+ (https://github.com/azabadaudiya/V)
+   ````
+
+3. Create a branch:
+
+   ```bash
+   git checkout -b feature-branch
+   ```
+4. Make your changes and commit:
+
+   ```bash
+   git commit -m "Added new feature/fix"
+   ```
+5. Push to your fork:
+
+   ```bash
+   git push origin feature-branch
+   ```
+6. Submit a pull request 🎉
