@@ -31,7 +31,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 1. Fork this repository  
 2. Clone your fork:  
    ```bash
- (https://github.com/azabadaudiya/V)
+(https://github.com/azabadaudiya/Virtual_Community.git)
    ````
 
 3. Create a branch:
